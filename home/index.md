@@ -1,6 +1,6 @@
 ---
 title: Here is the name of your recipe site
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/cornish-catch-cover.png
 permalink: /
 layout: recipeshome
 published: true
