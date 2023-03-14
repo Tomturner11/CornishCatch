@@ -1,46 +1,47 @@
 ---
-layout: recipe
-title: Some recipe
+title: Cornish Crab Cakes
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+Cornish cuisine is known for its fresh seafood dishes that are packed with flavor, and my Cornish crab cake recipe is no exception. The delicious combination of sweet, succulent crab meat with a hint of spice and a crunchy exterior makes this dish a must-try for seafood lovers.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+Cornwall's coastline provides the perfect setting for crab fishing, and many local fishermen have been perfecting their crabbing techniques for generations. The use of locally caught crab in this recipe is not only delicious, but it also supports sustainable fishing practices and the local economy.
 
+These crab cakes are easy to prepare and make for a fantastic starter or main course when served with a fresh salad or creamy dipping sauce. Whether you're hosting a dinner party or simply looking for a tasty weeknight meal, these Cornish crab cakes are sure to be a hit.
+
+
+
+![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/dall·e-2023-03-14-17.31.58-cornish-crab-cakes-meal.png "Photo by Joseph Smart")
 
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
-
+* 500g cooked crab meat
+* 1 red onion, finely chopped
+* 1 red chilli, finely chopped
+* 2 garlic cloves, minced
+* 2 tbsp chopped coriander
+* 2 eggs, beaten
+* 100g breadcrumbs
+* Salt and black pepper
+* 2 tbsp olive oil
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+In a large bowl, mix together the crab meat, red onion, chilli, garlic and coriander.
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+Add the beaten eggs and breadcrumbs, and mix until well combined.
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
+Season with salt and black pepper to taste.
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+Shape the mixture into small patties.
 
-- Serves: 6
-- Preparation time: 1 hour
+Heat the olive oil in a frying pan over medium-high heat.
+
+Cook the crab cakes for 3-4 minutes on each side, or until golden brown and crispy.
+
+Serve hot with a side salad.
+
+* Serves: 5
+* Preparation time: 30 mins
