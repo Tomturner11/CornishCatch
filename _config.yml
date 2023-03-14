@@ -1,8 +1,8 @@
 
 # SITE CONFIGURATION
-url: "https://localcaughtrecipes.netlify.app"   #change this to yours
-repository: Tomturner11/SeaFoodRecipes
-title: Your recipe collection
+url: "https://cornishcatch.netlify.app"   #change this to yours
+repository: Tomturner11/cornish catch
+title: Cornish Catch recipe collection
 recipemenu: true # you can change to true and a menu of all recipes will appear
 editbutton: true # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
