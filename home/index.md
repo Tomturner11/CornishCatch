@@ -1,5 +1,5 @@
 ---
-title: Here is the name of your recipe site
+title: Cornish Catch
 coverimage: ../uploads/cornish-catch-cover.png
 permalink: /
 layout: recipeshome
