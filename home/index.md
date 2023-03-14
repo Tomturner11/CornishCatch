@@ -1,15 +1,19 @@
 ---
-layout: recipeshome
 title: Here is the name of your recipe site
-permalink: "/"
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-03-14T18:38:05.259Z
 ---
+Welcome to Cornish Catch, your go-to source for delicious and authentic Cornish seafood recipes! Our website is dedicated to showcasing the incredible flavours of Cornish seafood, with a variety of recipes that are easy to prepare and bursting with flavor.
 
-Here is an introduction to my recipe site
+Cornwall has a long history of fishing and seafood harvesting, and the quality of our seafood is unrivaled. From succulent crab to sweet and delicate mackerel, our region's seafood is fresh, flavourful, and abundant.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+At Cornish Catch, we are passionate about bringing the taste of Cornwall to your table. Our recipes have been carefully crafted to highlight the natural flavours of our seafood, with ingredients that are locally sourced and sustainably harvested.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Whether you're a seasoned seafood lover or just beginning to explore the world of Cornish cuisine, our website has something for everyone. From classic dishes like Cornish fish pie and crab cakes to more adventurous fare like squid ink pasta with prawns, we've got you covered.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We believe that cooking with fresh, high-quality ingredients is the key to creating delicious and satisfying meals, and we hope to inspire you to embrace the flavours of Cornish cuisine in your own kitchen.
+
+So come along on this culinary journey with us, and discover the incredible flavours of Cornish seafood through our delicious recipes.
