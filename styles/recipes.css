@@ -1,149 +1,246 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+
 .border1 {
- border-bottom: black;
-border: black;
-border-width: 10px;
+  border-bottom: rgb(38, 213, 123);
+ border: rgb(38, 213, 123);
+ border-width: 70px;
+ }
+ 
+ 
+ a { text-decoration: none;
+color:white}
+ 
+ h1 {
+  font-family: 'Passion One', cursive;
+  text-align: center; 
+     color:rgb(255, 255, 255) ; 
+ }
+ 
+ p {font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: left;
+   color: rgb(255, 255, 255);}
+ 
+   
+ body {
+  background: linear-gradient(-45deg, #e897de, #199dbd, #23a6d5, #4f6165);
+  background-size: 400% 400%;
+  animation: gradient 7s ease infinite;
 }
 
-h1 {
-    
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center; 
-    color:ivory ; 
-}
-p {font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;  
-  color: ivory;}
-body {
-background-color: oldlace;
-background-image: linear-gradient(rgb(192,179,154), white);
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
   }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+   }
+ 
+ 
+ .about-img img{
+     display: block;
+     width: 200px;
+     align-items: center;
+     
+ }
+ .aboutimage {
+     width: 200px;
+     height: 200px;
+     overflow: hidden;
+     border-radius: 50%;
+     transition: all 0.5s ease-in-out; }
+ 
+          
+         li a {
+         display: block;
+         color: white;
+         text-align: center;
+         padding: 14px 16px;
+         text-decoration: none;
+         }
+         
+         li a:hover {
+         background-color: rgb(0, 0, 0);
+         }
+         
+         
+         .logo {
+         float: left;
+         width: 75px;
+         height: 57px;
+         }
+             
+         
+         
+         ul {
+             list-style-type: none;
+             margin: 000;
+             padding: 000;
+             overflow: hidden;
+             background-color: rgb(38, 213, 123);
+             font-family: Verdana, Geneva, Tahoma, sans-serif;
+             font-size: 25px;
+             text-align: center;
+             
+             }
 
-
-.about-img img{
-    display: block;
-    width: 200px;
-    align-items: center;
-    
-}
-.aboutimage {
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    border-radius: 50%;
-    transition: all 0.5s ease-in-out; }
-
-    li {
-        float: left;
-        }
-        
-        li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        }
-        
-        li a:hover {
-        background-color: rgb(0, 0, 0);
-        }
-        
-        
-        .logo {
-        float: left;
-        width: 75px;
-        height: 57px;
-        }
-
-        ul {
-            list-style-type: none;
-            margin: 000;
-            padding: 000;
-            overflow: hidden;
-            background-color: rgb(192,179,154);
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            font-size: 25px;
-            text-align: center;
-            
-            }
-
-    
-            .row {
-                display: inline-flex;
-                align-items: center;
-                margin: auto;
-            
-                }
-              
-              .column {
-              flex: 33%;
-              padding: 5px;
-              align-items: center;
+            .post-content ul  {
+              list-style-type: none;
+              margin: 000;
+              padding: 000;
+              overflow: hidden;
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+              font-size: 19px;
+              text-align: left;
+              justify-self: left;
+              color: white;
+              background:none              
               }
-
-input[type=text], select, textarea {
-    width: 100%; 
-    padding: 12px;
-    border: 1px solid #ccc; 
-    border-radius: 4px;
-    box-sizing: border-box; 
-    margin-top: 6px; 
-    margin-bottom: 16px; 
-    resize: vertical 
-  }
-  
-  
-  input[type=submit] {
-    background-color: #6fdab2;
-    color: ivory;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
  
-  input[type=submit]:hover {
-    background-color: #6fdab2;
-  }
-  
-
-  .container {
-    border-radius: 5px;
-    
-    padding: 20px;
-  }
-
-  
+     
+             .row {
+                 display: inline-flex;
+                 align-items: center;
+                 margin: auto;
+                 width: 100%;
+             
+                 }
+               
+               .column {
+               flex: 33%;
+               padding: 5px;
+               align-items: center;
+               }
  
+ input[type=text], select, textarea {
+     width: 100%; 
+     padding: 12px;
+     border: 1px solid #ccc; 
+     border-radius: 4px;
+     box-sizing: border-box; 
+     margin-top: 6px; 
+     margin-bottom: 16px; 
+     resize: vertical 
+   }
+   
+   
+   input[type=submit] {
+     background-color: #6fdab2;
+     color: ivory;
+     padding: 12px 20px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+   }
+   
   
-.animation:hover
-{
-height: 75px;
-width: 75px;
+   input[type=submit]:hover {
+     background-color: #6fdab2;
+   }
+   
+ 
+   .container {
+     border-radius: 5px;
+     
+     padding: 20px;
+   }
+ 
+   
+  
+   
+ .animation:hover
+ {
+ height: 75px;
+ width: 75px;
+ 
+ }
+ h2 {
+     margin-top: 20px;
+     
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center; 
+     color: ivory; 
+ }
 
+
+ 
+ form {color: ivory;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;}
+   div.fixed {
+     position: fixed;
+     bottom: 0;
+     left: 0px;
+     width: 300px;
+     border: 3px solid #eb0a0a;
+   }
+   .container {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ 
+   .site-title
+   {
+     background-color:(rgb(48, 80, 45));
+     font-family: 'Passion One', cursive;
+     text-align: center; 
+     letter-spacing: 5px;
+     font-size: 80px;
+     background: -webkit-linear-gradient(left, #ece518,#f570ee, #ffc06e,#eb0a0a);
+      background-size: 1600px 200px;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation-duration: 3s;
+      animation-name: text;
+      animation-iteration-count: infinite;
+      animation-fill-mode: forwards;
+  }
+
+
+@keyframes text {
+  0% {
+      background-position: 0 1600px;
+  }
+  100% {
+      background-position: 1600px 0;
+  }
 }
-h2 {
-    margin-top: 20px;
+
+
+
+   
+      main {
+    width: 60%;
+    max-width:850px;
+    /* border:1px solid purple; */
+    padding: 0 12px;
+    margin:0 auto;
+    }
     
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center; 
-    color: ivory; 
-}
-p {font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;  
-  color: ivory;}
-body {
-background-color: oldlace;
-background-image: linear-gradient(rgb(192,179,154), black);
+    img {
+    width:60%;
+    float:right;
+    margin-left: 30px;
+    }
+
+    .cover {
+      width:60%;
+      float:right;
+      margin-left: 30px;
+      }
+  
+    li {
+    font-size: .8em;
+    margin-bottom: 12px;
+    list-style-position: inside;
+    text-align: center;
+    display: inline-block;
   }
-form {color: ivory;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;}
-  div.fixed {
-    position: fixed;
-    bottom: 0;
-    left: 0px;
-    width: 300px;
-    border: 3px solid #eb0a0a;
-  }
-  .container {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    
+    .caption {
+    font-size: .8em;
+    float:right;
+    width:60%;
+    }
